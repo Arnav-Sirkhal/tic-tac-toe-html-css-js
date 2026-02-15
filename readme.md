@@ -9,6 +9,7 @@ A basic Tic Tac Toe web game built with HTML, CSS, and JavaScript.
 - [Description](#-description)
 - [Features](#-features)
 - [Technologies Used](#️-technologies-used)
+- [Screenshots](#-screenshots)
 - [How to Run the Project](#️-how-to-run-the-project)
 - [Concepts Used](#-concepts-used)
 
@@ -39,11 +40,27 @@ The game uses predefined win patterns to detect the winner. As soon as a player 
 
 ---
 
+## 📸 Screenshots
+
+### 🎯 Game Board
+
+<p align="center">
+  <img src="assets/screenshots/game-board.png" width="600">
+</p>
+
+### 🏆 Winner Screen
+
+<p align="center">
+  <img src="assets/screenshots/winner-screen.png" width="600">
+</p>
+
+---
+
 ## ▶️ How to Run the Project
 
 1. Clone or download the repository
 2. Open the project folder
-3. Open index.html in your browser
+3. Open `index.html` in your browser
 
 ---
 
