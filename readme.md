@@ -7,9 +7,10 @@ A basic Tic Tac Toe web game built with HTML, CSS, and JavaScript.
 ## 📑 Table of Contents
 
 - [Description](#-description)
+- [Live Demo](#-live-demo)
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Technologies Used](#️-technologies-used)
-- [Screenshots](#-screenshots)
 - [How to Run the Project](#️-how-to-run-the-project)
 - [Concepts Used](#-concepts-used)
 
@@ -19,6 +20,29 @@ A basic Tic Tac Toe web game built with HTML, CSS, and JavaScript.
 
 This is a simple two-player Tic Tac Toe game played in the browser.  
 The game uses predefined win patterns to detect the winner. As soon as a player wins, the winner is displayed and a new game option appears. In case of a draw, the game can be reset using the reset button.
+
+---
+
+## 🌐 Live Demo
+
+Play the game here:
+👉 https://arnav-sirkhal.github.io/tic-tac-toe-html-css-js/
+
+---
+
+## 📸 Screenshots
+
+### 🎯 Game Board
+
+<p align="center">
+  <img src="assets/screenshots/game-board.png" width="600">
+</p>
+
+### 🏆 Winner Screen
+
+<p align="center">
+  <img src="assets/screenshots/winner-screen.png" width="600">
+</p>
 
 ---
 
