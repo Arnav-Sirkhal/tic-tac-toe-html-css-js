@@ -11,8 +11,10 @@ A basic Tic Tac Toe web game built with HTML, CSS, and JavaScript.
 - [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Technologies Used](#️-technologies-used)
+- [Project Structure](#-project-structure)
 - [How to Run the Project](#️-how-to-run-the-project)
 - [Concepts Used](#-concepts-used)
+- [Author](#-author)
 
 ---
 
@@ -35,13 +37,13 @@ Play the game here:
 ### 🎯 Game Board
 
 <p align="center">
-  <img src="assets/screenshots/game-board.png" width="600">
+  <img src="screenshots/game-board.png" width="600">
 </p>
 
 ### 🏆 Winner Screen
 
 <p align="center">
-  <img src="assets/screenshots/winner-screen.png" width="600">
+  <img src="screenshots/winner-screen.png" width="600">
 </p>
 
 ---
@@ -64,29 +66,35 @@ Play the game here:
 
 ---
 
-## 📸 Screenshots
+## 📂 Project Structure
 
-### 🎯 Game Board
+```
+tic-tac-toe-html-css-js/
+│
+├── screenshots/
+│   ├── game-board.png
+│   └── winner.png
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-<p align="center">
-  <img src="assets/screenshots/game-board.png" width="600">
-</p>
-
-### 🏆 Winner Screen
-
-<p align="center">
-  <img src="assets/screenshots/winner-screen.png" width="600">
-</p>
+```
 
 ---
 
 ## ▶️ How to Run the Project
 
-1. Clone or download the repository
-2. Open the project folder
-3. Open `index.html` in your browser
+1️⃣ Clone the repository:
 
----
+```bash
+git clone https://github.com/Arnav-Sirkhal/tic-tac-toe-html-css-js.git
+```
+
+2️⃣ Open the project folder.
+
+## 3️⃣ Run `index.html` in your browser.
 
 ## 📚 Concepts Used
 
@@ -94,6 +102,14 @@ Play the game here:
 - Event handling
 - Arrays and conditional logic
 - Game state management
+
+---
+
+## 👨‍💻 Author
+
+**Arnav Sirkhal**
+
+GitHub: https://github.com/Arnav-Sirkhal
 
 ---
 
