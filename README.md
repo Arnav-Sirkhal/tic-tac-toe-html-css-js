@@ -78,6 +78,7 @@ tic-tac-toe-html-css-js/
 ├── index.html
 ├── style.css
 ├── script.js
+├── LICENSE
 └── README.md
 
 ```
