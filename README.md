@@ -28,7 +28,7 @@ The game uses predefined win patterns to detect the winner. As soon as a player 
 ## 🌐 Live Demo
 
 Play the game here:
-👉 https://arnav-sirkhal.github.io/tic-tac-toe-html-css-js/
+👉 https://tic-tac-toe-html-css-js-two.vercel.app/
 
 ---
 
